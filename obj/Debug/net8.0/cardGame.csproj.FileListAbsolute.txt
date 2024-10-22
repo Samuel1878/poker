@@ -1,0 +1,14 @@
+/Users/samuelchost/Documents/C#Projects/cardGame/bin/Debug/net8.0/cardGame
+/Users/samuelchost/Documents/C#Projects/cardGame/bin/Debug/net8.0/cardGame.deps.json
+/Users/samuelchost/Documents/C#Projects/cardGame/bin/Debug/net8.0/cardGame.runtimeconfig.json
+/Users/samuelchost/Documents/C#Projects/cardGame/bin/Debug/net8.0/cardGame.dll
+/Users/samuelchost/Documents/C#Projects/cardGame/bin/Debug/net8.0/cardGame.pdb
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.AssemblyInfoInputs.cache
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.AssemblyInfo.cs
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.csproj.CoreCompileInputs.cache
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.dll
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/refint/cardGame.dll
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.pdb
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/cardGame.genruntimeconfig.cache
+/Users/samuelchost/Documents/C#Projects/cardGame/obj/Debug/net8.0/ref/cardGame.dll
